@@ -1,0 +1,4 @@
+alias bro=sudo
+alias cat=show
+alias copy=cp
+alias move=mv
